@@ -22,7 +22,7 @@ This project is a Python script that automates the process of searching for Link
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/linkedin-profile-scraper.git
+   git clone https://github.com/riccardocamporese/linkedin-profile-scraper.git
    cd linkedin-profile-scraper
    ```
 2. Install the required Python packages:
